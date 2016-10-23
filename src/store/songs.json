@@ -1,0 +1,20 @@
+{
+ "songs": [
+    {
+      "id": 1,
+      "coverURL": "/public/Maximum.png",
+      "audioFile": "http://icecast.radiomaximum.cdnvideo.ru/maximum.mp3",
+      "title": "Maximum",
+      "artist": "103.7",
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "coverURL": "/public/Nashe.jpg",
+      "audioFile": "http://nashe.streamr.ru/nashe-128.mp3",
+      "title": "Nashe",
+      "artist": "101.7",
+      "favorite": false
+    }
+  ]
+}
